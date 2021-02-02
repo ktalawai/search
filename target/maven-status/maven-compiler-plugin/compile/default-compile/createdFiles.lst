@@ -1,0 +1,17 @@
+com\sap\search\data\ProductData$ProductDataBuilder.class
+com\sap\search\data\ProductResponse.class
+com\sap\search\entity\Product$ProductBuilder.class
+com\sap\search\repository\BrandRepository.class
+com\sap\search\data\ProductData.class
+com\sap\search\SearchApplication.class
+com\sap\search\entity\Seller$SellerBuilder.class
+com\sap\search\entity\Seller.class
+com\sap\search\entity\Product.class
+com\sap\search\service\SearchService.class
+com\sap\search\repository\SellerRepository.class
+com\sap\search\controller\SearchController.class
+com\sap\search\entity\Brand$BrandBuilder.class
+com\sap\search\data\ProductResponse$ProductResponseBuilder.class
+com\sap\search\entity\Brand.class
+com\sap\search\repository\ProductRepository.class
+com\sap\search\service\SearchServiceImpl.class
